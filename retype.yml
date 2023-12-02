@@ -6,7 +6,7 @@ branding:
   title: Desu Treasures
 
 edit:
-  repo: "https://github.com/Snaacky/thewiki/edit/"
+  repo: "https://github.com/desutreasures/desu-guide/"
   base: /p/
   branch: "master"
   label: "Edita este articulo"
